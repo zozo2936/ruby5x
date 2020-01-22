@@ -1,11 +1,6 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
+* Ruby 2.6.4
+  Rails 6.0.2.1
 
 * System dependencies
 
